@@ -287,8 +287,12 @@ a {
   flex-basis: calc((100% - 4 * 30px) / 4);
 }
 
-.team-name {
+.team-details {
   margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.team-name {  
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
@@ -299,8 +303,7 @@ a {
 }
 
 .name-description {
-  margin-bottom: 30px;
-  text-align: center;
+   text-align: center;
 }
 
 .name-description,
